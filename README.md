@@ -22,6 +22,8 @@
 - ✅ Clean Architecture (Onion Architecture)
 - ✅ Stripe integration for secure payments
 - ✅ .NET Web APIs with Angular
+- ✅ ASP.NET Core MVC
+- ✅ Entity Framework (EF)
 - ✅ SQL & Oracle database structuring
 
 ---
