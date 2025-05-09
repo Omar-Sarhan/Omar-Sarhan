@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I'm Omar Sarhan
 
-<!--
-**Omar-Sarhan/Omar-Sarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full-Stack Developer in training | Specializing in ASP.NET Core + Angular + Oracle DB  
+🚀 Passionate about building efficient, clean, and scalable web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+### 🔹 [GYMHERO](https://github.com/Omar-Sarhan/GYMHERO)
+> Fitness management system with roles for members, trainers, and admins. Built with ASP.NET Core MVC, Oracle DB, Bootstrap. PDF invoice generation and user testimonials included.
+
+### 🔹 [Train Ticket App](https://github.com/Omar-Sarhan/Train-Ticket-App)
+> Full-stack train booking system with Angular frontend & ASP.NET Core Web API backend. JWT Authentication, admin dashboard, and real-time booking features.
+
+### 🔹 [Grill Restaurant Website](https://github.com/Omar-Sarhan/Grill-Restaurant)
+> Frontend project using HTML, CSS, JavaScript, and DOM manipulation. Showcases a dynamic and animated restaurant menu UI.
+
+---
+
+## 🧠 What I’m Learning
+- ✅ Clean Architecture (Onion Architecture)
+- ✅ Stripe integration for secure payments
+- ✅ .NET Web APIs with Angular
+- ✅ SQL & Oracle database structuring
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/omar-kh-sarhan/)
+- 📧 [omar.kh.sarhan@gmail.com](mailto:omar.kh.sarhan@gmail.com)
+
+---
+
+Thanks for visiting my profile! ⭐
