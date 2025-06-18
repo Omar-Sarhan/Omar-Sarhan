@@ -7,6 +7,10 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 [CareerBuilderX](https://github.com/Omar-Sarhan/CareerBuilderX)
+> 🧠 AI-powered resume & portfolio builder using ASP.NET Core MVC, Semantic Kernel (OpenAI), and SQL Server. Includes dynamic PDF generation, user authentication, portfolio visuals, and email integration via SMTP. Deployed on Azure App Service.  
+> 🌐 [Live Demo](https://careerbuilderx-gkdtbta4gka5eaew.northeurope-01.azurewebsites.net/)
+
 ### 🔹 [GYMHERO](https://github.com/Omar-Sarhan/GYMHERO)
 > Fitness management system with roles for members, trainers, and admins. Built with ASP.NET Core MVC, Oracle DB, Bootstrap. PDF invoice generation and user testimonials included.
 
